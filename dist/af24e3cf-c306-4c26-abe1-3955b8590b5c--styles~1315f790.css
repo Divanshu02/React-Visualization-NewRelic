@@ -1,0 +1,21 @@
+.nr1-af24e3cf-c306-4c26-abe1-3955b8590b5c .my-nerdlet{
+  outline:1px solid #000;
+}
+
+.nr1-af24e3cf-c306-4c26-abe1-3955b8590b5c .EmptyState,.nr1-af24e3cf-c306-4c26-abe1-3955b8590b5c .ErrorState{
+  height:100%;
+  text-align:center;
+}
+.nr1-af24e3cf-c306-4c26-abe1-3955b8590b5c .EmptyState-cardBody,.nr1-af24e3cf-c306-4c26-abe1-3955b8590b5c .ErrorState-cardBody{
+  height:100%;
+  box-sizing:border-box;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+}
+
+.nr1-af24e3cf-c306-4c26-abe1-3955b8590b5c .ErrorState-headingText{
+  color:#a9a9a9;
+}
+
+/*# sourceMappingURL=https://cli-assets.service.datanerd.us/artifact-index-production/af24e3cf-c306-4c26-abe1-3955b8590b5c/det/af24e3cf-c306-4c26-abe1-3955b8590b5c--styles~1315f790.css.map*/

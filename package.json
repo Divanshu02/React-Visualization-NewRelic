@@ -1,0 +1,23 @@
+{
+    "private": true,
+    "name": "my-awesome-nerdpack",
+    "version": "0.1.2",
+    "scripts": {
+        "start": "nr1 nerdpack:serve",
+        "test": "exit 0"
+    },
+    "nr1": {
+        "uuid": "af24e3cf-c306-4c26-abe1-3955b8590b5c"
+    },
+    "dependencies": {
+        "prop-types": "15.7.2",
+        "react": "17.0.2",
+        "react-dom": "17.0.2",
+        "recharts": "^2.12.7"
+    },
+    "browserslist": [
+        "last 2 versions",
+        "not ie < 11",
+        "not dead"
+    ]
+}
